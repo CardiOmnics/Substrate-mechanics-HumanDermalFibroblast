@@ -71,6 +71,7 @@ Required raw data files are located in the [`/Input/UKA_Raw_data/`](/Input/UKA_R
 - `GTEx_8_genes.csv`
 
 Required raw data files are located in the [`/Input/GTEx_analysis/`](/Input/GTEx_analysis/) directory.
+
 ---
 
 ## Experimental Groups
