@@ -13,6 +13,7 @@ Cells convert physical cues into biochemical signals via mechanosensitive pathwa
 |---|---|
 | `pPs_analysis_script.R` | Phosphopeptide (pPs) analysis: data loading and merging, heatmap, PCA, and dot plots |
 | `UKA_heatmap_scripts.R` | Upstream Kinase Activity (UKA) analysis: kinase activity heatmaps for substrate and genotype comparisons |
+| `MAPK3_quantification.R` | Quantification of MAPK3 nuclear intensities |
 | `PamDx_GTExanalysis.Rmd` | GTEx analysis: Validation of pPs expression in human fibroblast (skin and cultured) |
 
 ---
