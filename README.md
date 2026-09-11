@@ -41,6 +41,14 @@ This script performs the following steps:
 1. **Substrate mechanics comparison** - Loads UKA output CSVs comparing Hard vs Soft and Stretch vs Soft conditions, filters by contrast group, and generates a heatmap of mean kinase statistic scores (thresholded by median final score > 1.2) across substrate mechanics conditions for both genotypes.
 2. **Genotype comparison** - Loads UKA output CSVs comparing hfLMNA<sup>R377L/WT</sup> vs hfLMNA<sup>WT/WT</sup> per substrate condition (Rigid-unstrained, Soft-unstrained, Soft-strained) and generates a corresponding kinase activity heatmap.
 
+
+### [`MAPK3 Quantification.R`](/scripts/MAPK3_quantification.R/)
+
+Visualization of MAPK3 intensity per nucleus (segmented in QuPath)
+1. **Violin plot** - Visualizes MAPK3 intensity per condition
+2. **Intensity bin distrubtion** - Barchart of binned intensities
+3. **Intensity >10 barchart** - Barchart of nuclei with MAPK3 intensity >10 per condition
+4. **Supplementary correlation** - Correlation per group between area/perimeter and MAPK3 nuclear intensity
 ### [`PamDx_GTExanalysis.Rmd`](/scripts/PamDx_GTExanalysis.Rmd/)
 
 This script visualizes pPs expression in different celltype, based on publicly available RNAseq datasets
