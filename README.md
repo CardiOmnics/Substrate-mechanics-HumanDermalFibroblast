@@ -1,4 +1,4 @@
-# Substrate mechanics modulate peptide phosphorylation and inferred kinase activity in LMNA mutant fibroblasts
+# Substrate mechanics modulate peptide phosphorylation and inferred kinase activity in human dermal fibroblasts
 
 
 ## Abstract
